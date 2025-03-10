@@ -17,5 +17,3 @@ The **Personal Fitness Tracker** is a Python-based application that leverages **
 - **Machine Learning:** scikit-learn (Linear Regression, Random Forest)  
 - **Data Processing:** Pandas, NumPy  
 - **Visualization:** Matplotlib, Seaborn  
-
-## 📂 Project Structure  
